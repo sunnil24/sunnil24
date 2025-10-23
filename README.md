@@ -92,6 +92,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sunnil24&show_icons=true&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnil24&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
 ---
 
