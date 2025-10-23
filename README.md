@@ -24,7 +24,7 @@
 ## 🙋‍♂️ About Me
 
 - 🚀 Aiming to **build future-proof platforms** powered by cloud & AI
-- 💡 Currently exploring **GenAI workflow automation** & **Figma-to-Code**
+- 💡 Currently exploring **GenAI**
 - 👯 Open to collaboration on **modern engineering & open-source projects**
 - ☕ Coffee & System Design = Perfect recipe for **high availability**
 - 🎯 Making developer experience faster, simpler, and smarter
@@ -36,44 +36,52 @@
 ## 🚀 Tech & Tools
 
 <p align="center">
-<!-- Cloud -->
-<img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
-<img src="https://img.icons8.com/color/48/microsoft-azure.png"/>
 
-<!-- DevOps -->
-<img src="https://img.icons8.com/color/48/docker.png"/>
-<img src="https://img.icons8.com/color/48/kubernetes.png"/>
-<img src="https://img.icons8.com/color/48/git.png"/>
-<img src="https://img.icons8.com/color/48/github.png"/>
+<!-- 🏛️ Architecture & Cloud -->
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/>
+<img src="https://img.icons8.com/color/48/azure.png" title="Azure"/>
 
-<!-- Frontend -->
-<img src="https://img.icons8.com/color/48/react-native.png"/>
-<img src="https://img.icons8.com/color/48/javascript.png"/>
-<img src="https://img.icons8.com/color/48/typescript.png"/>
-<img src="https://img.icons8.com/color/48/tailwindcss.png"/>
-<img src="https://img.icons8.com/color/48/html-5.png"/>
-<img src="https://img.icons8.com/color/48/css3.png"/>
+<!-- ⚙️ DevOps & Containerization -->
+<img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
+<img src="https://img.icons8.com/color/48/kubernetes.png" title="Kubernetes"/>
+<img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+<img src="https://img.icons8.com/color/48/github.png" title="GitHub"/>
 
-<!-- Backend -->
-<img src="https://img.icons8.com/color/48/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/graphql.png"/>
-<img src="https://img.icons8.com/color/48/rest-api.png"/>
+<!-- 🎨 Frontend Development -->
+<img src="https://img.icons8.com/color/48/react-native.png" title="React / React Native"/>
+<img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
+<img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript"/>
+<img src="https://img.icons8.com/color/48/tailwindcss.png" title="Tailwind CSS"/>
+<img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
+<img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
 
-<!-- Databases -->
-<img src="https://img.icons8.com/color/48/redis.png"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/dynamodb.png"/>
+<!-- 🧠 Backend & APIs -->
+<img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
+<img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+<img src="https://img.icons8.com/color/48/graphql.png" title="GraphQL"/>
+<img src="https://img.icons8.com/fluency/48/api-settings.png" title="REST API"/>
 
-<!-- Tools -->
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<!-- 🗄️ Datastores -->
+<img src="https://img.icons8.com/color/48/redis.png" title="Redis"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+
+<!-- 🤖 AI / GenAI Tooling -->
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" title="OpenAI / GPT Models"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="LangChain" width="48" height="48" title="LangChain"/>
+
+
+<!-- 🔧 Dev Tools -->
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+
 </p>
+
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img alt="Sunny's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnil24&theme=midnight-purple&hide_border=true&stroke=0000&background=0C0F14"/>
+<img alt="Sunil's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sunnil24&theme=midnight-purple&hide_border=true&stroke=0000&background=0C0F14"/>
 </p>
 
 ---
