@@ -13,12 +13,6 @@
   Full Stack Engineer • Cloud Native • AI-Driven Development Enthusiast
 </h3>
 
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=5BCDEC&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+With+Purpose;Cloud-native+Architecture+%26+Modernization;AI+Driven+Developer+Experience;Strong,+Reliable+%2B+Highly+Available+Design%E2%9A%A1" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
