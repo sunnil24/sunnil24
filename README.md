@@ -23,11 +23,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🚀 Aiming to **build future-proof platforms** powered by cloud & AI
-- 💡 Currently exploring **GenAI**
-- 👯 Open to collaboration on **modern engineering & open-source projects**
-- ☕ Coffee & System Design = Perfect recipe for **high availability**
-- 🎯 Making developer experience faster, simpler, and smarter
+A passionate product & customer minded engineering leader who is fascinated by the Web, DevOps and UX.
+
+* 💻  Experience in building and architecting awesome web and mobile experiences.
+* ☁  I also love working on Docker, Kubernetes and cloud
+* 🤸‍♂️ Worked on Agility, DevOps and CI/CD.
+* 🦾  I have lead teams in multiple projects spanning across B2B, B2C, Banking, Travel, Health and Finance domains.
+* 🚀  I try to squeeze every ounce of performance from my apps.
+* 👥  I have worked directly and cohesively with clients, creative, business and QA teams.
+* 📖  Love to read as well
 
 <br/>
 
