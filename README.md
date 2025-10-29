@@ -19,8 +19,8 @@
 
 A passionate product & customer minded engineering leader who is fascinated by the Web, DevOps and UX.
 
-* 💻  Experience in building and architecting awesome web and mobile experiences.
-* ☁  I also love working on Docker, Kubernetes and cloud
+* 💻  Experience in building and architecting awesome web and mobile apps.
+* ☁  I also love working on Docker, Kubernetes and cloud native
 * 🤸‍♂️ Worked on Agility, DevOps and CI/CD.
 * 🦾  I have lead teams in multiple projects spanning across B2B, B2C, Banking, Travel, Health and Finance domains.
 * 🚀  I try to squeeze every ounce of performance from my apps.
